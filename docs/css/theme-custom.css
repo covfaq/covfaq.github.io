@@ -198,3 +198,7 @@ div.expand-label {
     margin: 0;
 }
 
+/* expand menu levels */
+#sidebar ul.topics ul {
+  display: block;
+}
