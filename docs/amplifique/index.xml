@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amplifique on Dicas de prevenção contra a Covid-19</title>
+    <link>https://covfaq.github.io/amplifique/</link>
+    <description>Recent content in Amplifique on Dicas de prevenção contra a Covid-19</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://covfaq.github.io/amplifique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dicas de prevenção</title>
+      <link>https://covfaq.github.io/amplifique/dicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/dicas/</guid>
+      <description>Você pode baixar todas as imagens em um só arquivo ZIP.
+Material produzido pelo Grupo Infovid.
+   Lockdown                     Máscaras                     Máscaras (parte 2)                     Peguei Covid-19, e agora?</description>
+    </item>
+    
+    <item>
+      <title>Sobre as máscaras</title>
+      <link>https://covfaq.github.io/amplifique/mascaras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/mascaras/</guid>
+      <description>Você pode baixar todas as imagens em um só arquivo ZIP.
+Material produzido pela iniciativa Qual Máscara?.
+   Aerossóis                  Melhor máscara?                        Reutilização                  Máscaras de pano                        Máscara antiviral                  Outros países                  Alimentos KN95 Sintomas Válvula               Uso com barba                Professores           </description>
+    </item>
+    
+    <item>
+      <title>Resumos e posters</title>
+      <link>https://covfaq.github.io/amplifique/resumos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/resumos/</guid>
+      <description>Você pode baixar todos os documentos em um só arquivo ZIP.
+   Documento       Covid-19: Síntese de dados científicos sobre a transmissibilidade (arquivo PDF), produzido pela ANESP       Poster       Poster para professores (arquivo PDF), produzido pela iniciativa Qual Máscara?       Poster       Poster sobre tipos de máscaras (arquivo PDF), produzido pela iniciativa Qual Máscara?</description>
+    </item>
+    
+  </channel>
+</rss>

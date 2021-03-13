@@ -6,16 +6,14 @@
     <description>Recent content in Principais medidas on Dicas de prevenção contra a Covid-19</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://covfaq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reportagens</title>
-      <link>https://covfaq.github.io/saiba-mais/reportagens/</link>
+      <title>Dicas de prevenção</title>
+      <link>https://covfaq.github.io/amplifique/dicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covfaq.github.io/saiba-mais/reportagens/</guid>
-      <description>Em português   [Portal G1, 12/03/2021] Como usar a máscara PFF2/N95? Veja respostas para 17 dúvidas sobre o modelo mais eficiente contra a Covid
-  [Estadão, 10/03/2021] Saiba como usar as máscaras N95 e PFF2
-  [Portal G1, 05/03/2021] Máscaras - a importância no descontrole da Covid
-  [Nexo Jornal, 05/03/2021] Quais perfis seguir para achar as melhores máscaras contra covid
-  [Portal G1, 01/03/2021] Covid e crianças: saiba o que os estudos mais recentes dizem sobre volta às aulas, transmissão e gravidade da doença</description>
+      <guid>https://covfaq.github.io/amplifique/dicas/</guid>
+      <description>Você pode baixar todas as imagens em um só arquivo ZIP.
+Material produzido pelo Grupo Infovid.
+   Lockdown                     Máscaras                     Máscaras (parte 2)                     Peguei Covid-19, e agora?</description>
     </item>
     
     <item>
@@ -32,6 +30,17 @@
     </item>
     
     <item>
+      <title>Sobre as máscaras</title>
+      <link>https://covfaq.github.io/amplifique/mascaras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/mascaras/</guid>
+      <description>Você pode baixar todas as imagens em um só arquivo ZIP.
+Material produzido pela iniciativa Qual Máscara?.
+   Aerossóis                  Melhor máscara?                        Reutilização                  Máscaras de pano                        Máscara antiviral                  Outros países                  Alimentos KN95 Sintomas Válvula               Uso com barba                Professores           </description>
+    </item>
+    
+    <item>
       <title>Artigos e relatórios científicos</title>
       <link>https://covfaq.github.io/saiba-mais/artigos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +49,16 @@
       <description>Em português  [Rede Análise Covid-19, 05/01/2021] Propagação em espaços fechados  Em inglês   [Clinical Infectious Diseases, 11/03/2021] Transmission of SARS-CoV-2 from asymptomatic and presymptomatic individuals in healthcare settings despite medical masks and eye protection
   [The Lancet, 10/03/2021] School reopening without robust COVID-19 mitigation risks accelerating the pandemic
   [Clinical Infectious Diseases, 10/03/2021] Effectiveness of three versus six feet of physical distancing for controlling spread of COVID-19 among primary and secondary students and staff: A retrospective, state-wide cohort study</description>
+    </item>
+    
+    <item>
+      <title>Resumos e posters</title>
+      <link>https://covfaq.github.io/amplifique/resumos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/resumos/</guid>
+      <description>Você pode baixar todos os documentos em um só arquivo ZIP.
+   Documento       Covid-19: Síntese de dados científicos sobre a transmissibilidade (arquivo PDF), produzido pela ANESP       Poster       Poster para professores (arquivo PDF), produzido pela iniciativa Qual Máscara?       Poster       Poster sobre tipos de máscaras (arquivo PDF), produzido pela iniciativa Qual Máscara?</description>
     </item>
     
   </channel>
