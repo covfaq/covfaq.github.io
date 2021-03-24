@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://covfaq.github.io/amplifique/dicas/</loc>
+    <loc>https://covfaq.github.io/amplifique/campanhas/</loc>
   </url>
   
   <url>
@@ -11,11 +11,11 @@
   </url>
   
   <url>
-    <loc>https://covfaq.github.io/saiba-mais/protocolos/</loc>
+    <loc>https://covfaq.github.io/amplifique/dicas/</loc>
   </url>
   
   <url>
-    <loc>https://covfaq.github.io/amplifique/mascaras/</loc>
+    <loc>https://covfaq.github.io/saiba-mais/protocolos/</loc>
   </url>
   
   <url>
@@ -28,6 +28,10 @@
   
   <url>
     <loc>https://covfaq.github.io/distanciamento/</loc>
+  </url>
+  
+  <url>
+    <loc>https://covfaq.github.io/amplifique/mascaras/</loc>
   </url>
   
   <url>

@@ -1,10 +1,10 @@
 [
 {
-	"uri": "https://covfaq.github.io/amplifique/dicas/",
-	"title": "Dicas de prevenção",
+	"uri": "https://covfaq.github.io/amplifique/campanhas/",
+	"title": "Campanhas",
 	"tags": [],
 	"description": "",
-	"content": "Baixe todas as imagens em um único arquivo ZIP.\nMaterial produzido pelo Grupo Infovid.\nAuxílio emergencial\n O que é lockdown?\n Sobre máscaras (parte 1)\n Sobre máscaras (parte 2)\n Peguei Covid-19, e agora?\n Sobre as vacinas\n "
+	"content": "Baixe estas imagens em um único arquivo ZIP.\nMaterial produzido pela ANESP, Observatório Covid-19 BR e iniciativa Todos pelas Vacinas, com o apoio da Fábrica de Infográficos\nPrincipais medidas\n Como reduzir o risco de infecção pelo SARS-CoV2\n Conheça o seu ar!\n Por que o uso de máscaras?\n "
 },
 {
 	"uri": "https://covfaq.github.io/mascaras/",
@@ -14,18 +14,18 @@
 	"content": "As máscaras são essenciais para conter a transmissão do vírus.\nÉ preciso conhecer os diferentes modelos de máscaras:\n Máscaras de alta qualidade (PFF2) são as que fornecem maior nível de proteção individual quando utilizadas de forma correta. A escolha da máscara deve ser feita a partir da avaliação dos riscos do ambiente. Deve-se levar em conta a ventilação, o número de pessoas, o tempo de exposição e os comportamentos associados ao local (por exemplo, o risco aumenta quando pessoas estão falando alto ou gritando). Também é importante observar o risco de desenvolvimento de um quadro grave da doença para a escolha da máscara mais adequada. Para ambientes de menor risco, como espaços a céu aberto com poucas pessoas, o uso de uma máscara de pano bem ajustada é suficiente. Máscaras de pano e cirúrgicas não são EPIs (Equipamentos de Proteção Individual). Funcionam como controle da fonte, ou seja, reduzem a emissão de partículas potencialmente contaminadas por parte de quem está usando, mas oferecem proteção limitada ao usuário.  É preciso usar corretamente a máscara:\n A máscara deve cobrir completamente o nariz e a boca: máscaras no queixo ou deixando o nariz de fora são inúteis. A máscara precisa se ajustar bem ao rosto, sem deixar folgas ou aberturas por onde entre ou saia o ar. A boa vedação é o ponto mais importante Para melhor ajuste e segurança, recomenda-se usar máscaras que possam ser presas na nuca, ao invés da orelha. Uma peça de metal perto do nariz também melhora o ajuste da máscara.  Para saber mais sobre máscaras, incluindo modelos e onde comprar, recomendamos os sites das iniciativas Qual Máscara? e PFF para Todos.\nNenhuma prevenção é 100% garantida, mas combinando diversas medidas podemos reduzir significativamente os riscos. Por isso é fundamental continuar usando máscaras, arejar ambientes e manter o distanciamento, mesmo já havendo vacinas.\n  Fontes: [Portal G1, 08/01/2021] [UK face covering guidance, 04/12/2020]\n"
 },
 {
+	"uri": "https://covfaq.github.io/amplifique/dicas/",
+	"title": "Dicas de prevenção",
+	"tags": [],
+	"description": "",
+	"content": "Baixe estas imagens em um único arquivo ZIP.\nMaterial produzido pelo Grupo Infovid.\nPrevenir a Covid-19\n Auxílio emergencial\n O que é lockdown?\n Sobre máscaras (parte 1)\n Sobre máscaras (parte 2)\n Peguei Covid-19, e agora?\n Sobre as vacinas\n "
+},
+{
 	"uri": "https://covfaq.github.io/saiba-mais/protocolos/",
 	"title": "Protocolos, recomendações e notas técnicas",
 	"tags": [],
 	"description": "",
 	"content": "Em português   [Comitê Científico do RS, 24/02/2021] Recomendação sobre o momento atual da pandemia da COVID-19\n  [Comitê Científico do RS, 20/02/2021] Nota Técnica: Recomendações à População\n  [Comitê Científico do RS, 19/02/2021] Nota Técnica: Recomendações aos Gestores\n  [Fiocruz, 18/12/2020] Cobertura e positividade dos testes para SARS-CoV2. Evolução, tendências recentes e recomendações\n  [Fiocruz, 07/12/2020] O fim do ciclo de interiorização, a sincronização da epidemia e as dificuldades de atendimento nos hospitais\n  Em inglês   [Public Health England, 04/03/2021] Guidance: Ventilation of indoor spaces to stop the spread of coronavirus (COVID-19)\n  [CDC, 02/03/2021] Schools and Child Care Programs​\n  [Public Health England, 01/03/2021] How to stop the spread of coronavirus (COVID-19)\n  [CDC, 26/02/2021] Ventilation in Schools and Childcare Programs\n  [The Lancet Covid-19 Commission, 20/02/2021] Task Force on Safe Work, Safe School, and Safe Travel: Six Priority Areas\n  [CDC, 22/02/2021] Your Guide to Masks\n  [CDC, 19/02/2021] Guidelines for Small Gatherings\n  [CDC, 18/02/2021] Guidance for Wearing Masks\n  [FDA, 18/02/2021] FDA Underscore Current Epidemiologic and Scientific Information Indicating No Transmission of COVID-19 Through Food or Food Packaging\n  [CDC, 13/02/2021] Improve How Your Mask Protects You\n  [CDC, 09/02/2020] Ventilation in Buildings\n  [Center for Health Security, 21/01/2021] Tips to make the air in your home safer during COVID-19\n  [SAGE UK, 16/12/2020] Simple summary of ventilation actions to mitigate the risk of COVID-19\n  "
-},
-{
-	"uri": "https://covfaq.github.io/amplifique/mascaras/",
-	"title": "Sobre as máscaras",
-	"tags": [],
-	"description": "",
-	"content": "Baixe todas as imagens em um único arquivo ZIP.\nMaterial produzido pela iniciativa Qual Máscara?.\nO que são aerossóis?\n Qual a melhor máscara?\n Reutilização de PFF2/N95\n Máscaras de pano\n  E a \u0026ldquo;máscara antiviral\u0026rdquo;?\n PFF2/N95 em outros países\n Uso de máscaras com barba\n Dicas para professores\n Alimentos, KN95, sintomas e válvulas\n  "
 },
 {
 	"uri": "https://covfaq.github.io/ventilacao/",
@@ -49,11 +49,18 @@
 	"content": "Distanciamento não implica em isolamento. Significa diminuir a circulação de pessoas para reduzir os riscos de transmissão.\nÉ importante saber que:\n As atividades ao ar livre são, em geral, mais seguras do que em ambientes fechados. Ainda assim é importante o uso de máscaras bem ajustadas ao rosto. Locais com poucas pessoas, ou com pessoas distantes entre si são mais seguros do que locais lotados. Você pode diminuir o risco em ambientes com muitas pessoas reduzindo o tempo de permanência. Em ambientes fechados, quanto maior o distanciamento melhor.  Cada atividade sempre trará riscos, então é importante reduzi-los com diversas medidas. E é sempre mais seguro usar máscaras.\n Parques, praças e praias são, em geral, ambientes de menor risco em comparação a espaços fechados e mal ventilados. Atividades esportivas ao ar livre são mais seguras, principalmente as individuais. Em ambientes de trabalho como escritórios é fundamental garantir a correta ventilação do ambiente, com trocas de ar constante com o meio externo, distanciamento e uso de máscaras bem ajustadas.  Nenhuma prevenção é 100% garantida, mas combinando diversas medidas podemos reduzir significativamente os riscos. Por isso é fundamental continuar usando máscaras, arejar ambientes e manter o distanciamento, mesmo já havendo vacinas.\n  Fontes: [Portal G1, 07/01/2021] [UK social distancing guidance, 07/01/2021]\n"
 },
 {
+	"uri": "https://covfaq.github.io/amplifique/mascaras/",
+	"title": "Sobre as máscaras",
+	"tags": [],
+	"description": "",
+	"content": "Baixe estas imagens em um único arquivo ZIP.\nMaterial produzido pela iniciativa Qual Máscara?.\nO que são aerossóis?\n Qual a melhor máscara?\n Reutilização de PFF2/N95\n Máscaras de pano\n  E a \u0026ldquo;máscara antiviral\u0026rdquo;?\n PFF2/N95 em outros países\n Uso de máscaras com barba\n Dicas para professores\n Alimentos, KN95, sintomas e válvulas\n  "
+},
+{
 	"uri": "https://covfaq.github.io/amplifique/resumos/",
 	"title": "Resumos e posters",
 	"tags": [],
 	"description": "",
-	"content": "Baixe todos os documentos em um único arquivo ZIP.\n   Livreto       Covid-19: Síntese de dados científicos sobre a transmissibilidade (arquivo PDF), produzido pela ANESP       Poster       Conheça o seu ar! (arquivo PDF), produzido pelo Observatório Covid-19 BR, COVID Straight Talk e Hablando Claro del COVID       Poster       Como reduzir o risco de infecção pelo SARS-CoV2 (arquivo PDF), produzido pela iniciativa Todos pelas Vacinas       Poster       Qual máscara usar? (arquivo PDF), produzido pela iniciativa Qual Máscara?       Poster       Orientações para professores (arquivo PDF), produzido pela iniciativa Qual Máscara?       Poster       Por que devo usar máscaras PFF2? (arquivo PDF), produzido pela iniciativa Qual Máscara?       Imagem       Por que usar máscaras é importante? Imagem produzida pela ANESP, Observatório Covid-19 BR e iniciativa Todos pelas Vacinas       Imagem       Linha do tempo de sintomas da Covid-19. Imagem produzida pelo Observatório Covid-19 BR    "
+	"content": "Baixe estes documentos em um único arquivo ZIP.\n   Livreto       Covid-19: Síntese de dados científicos sobre a transmissibilidade (arquivo PDF), produzido pela ANESP       Poster       Conheça o seu ar! (arquivo PDF), produzido pelo Observatório Covid-19 BR, COVID Straight Talk e Hablando Claro del COVID       Poster       Como reduzir o risco de infecção pelo SARS-CoV2 (arquivo PDF), produzido pela iniciativa Todos pelas Vacinas       Poster       Qual máscara usar? (arquivo PDF), produzido pela iniciativa Qual Máscara?       Poster       Orientações para professores (arquivo PDF), produzido pela iniciativa Qual Máscara?       Poster       Por que devo usar máscaras PFF2? (arquivo PDF), produzido pela iniciativa Qual Máscara?       Imagem       Linha do tempo de sintomas da Covid-19. Imagem produzida pelo Observatório Covid-19 BR    "
 },
 {
 	"uri": "https://covfaq.github.io/reportagens/",
@@ -74,7 +81,7 @@
 	"title": "Amplifique",
 	"tags": [],
 	"description": "",
-	"content": "Como posso ajudar a minha comunidade?\n  Explique a importância do uso de máscaras e da ventilação dos ambientes para outras pessoas.\n  Auxilie na obtenção de máscaras de qualidade (PFF2) para pessoas com maiores riscos (idosos e com comorbidades).\n  Estimule que trabalhadores de serviços essenciais e pessoas que trabalham em ambientes fechados usem máscaras de qualidade (PFF2) o tempo todo.\n  Alerte para a importância da ventilação, estimulando a abertura de janelas e a redução do número de pessoas em locais fechados.\n  Ajude a divulgar medidas de prevenção repassando para seus contatos as informações agrupadas neste site.\n  Consulte e baixe material gráfico de divulgação: dicas, máscaras e resumos.\n"
+	"content": "Como posso ajudar a minha comunidade?\n  Explique a importância do uso de máscaras e da ventilação dos ambientes para outras pessoas.\n  Auxilie na obtenção de máscaras de qualidade (PFF2) para pessoas com maiores riscos (idosos e com comorbidades).\n  Estimule que trabalhadores de serviços essenciais e pessoas que trabalham em ambientes fechados usem máscaras de qualidade (PFF2) o tempo todo.\n  Alerte para a importância da ventilação, estimulando a abertura de janelas e a redução do número de pessoas em locais fechados.\n  Ajude a divulgar medidas de prevenção repassando para seus contatos as informações agrupadas neste site.\n  Consulte e baixe material gráfico de divulgação: campanhas, dicas, máscaras e resumos.\n"
 },
 {
 	"uri": "https://covfaq.github.io/sobre/",
@@ -95,7 +102,7 @@
 	"title": "Principais medidas",
 	"tags": [],
 	"description": "",
-	"content": "Principais medidas Para reduzir o risco de contágio pela Covid-19, priorize nesta ordem:\n Usar uma máscara bem ajustada sempre que estiver fora da sua residência. Preferir o ar livre e os locais bem ventilados (com janelas sempre abertas). Manter a distância e evitar aglomerações. Higienizar as mãos com sabão ou álcool gel.  Consulte a síntese de dados científicos sobre a transmissibilidade da Covid-19, desenvolvida pela ANESP.\n É importante saber que:\n O vírus é transmitido principalmente a partir da inalação de pequenas partículas em suspensão no ar. Os riscos são maiores em locais fechados e mal ventilados onde pessoas compartilham o mesmo ar. Sempre que possível, busque ficar em casa. Reduza o contato com quem não reside com você. O risco de infecção por superfícies contaminadas é baixo. Distanciamento físico, boa ventilação dos ambientes e uso de máscaras de boa qualidade bem ajustadas são medidas muito mais eficientes. Cuidar apenas da higiene não é o bastante. Para se proteger é preciso também usar máscaras e ventilar os ambientes. Nenhuma medida de prevenção garante segurança absoluta, mas a combinação de diversas medidas pode reduzir significativamente os riscos.  Em resumo, os riscos devem ser avaliados de maneira relativa. Quanto maior a adesão às medidas de prevenção, menores serão os riscos.\nSaiba mais: máscaras, ventilação, distanciamento, reportagens e material de divulgação.\n Fontes: [Portal G1, 07/01/2021] [CDC guidelines, 07/01/2021]\nConteúdo atualizado em 19/03/2021.\n"
+	"content": "Principais medidas Para reduzir o risco de contágio pela Covid-19, priorize nesta ordem:\n Usar uma máscara bem ajustada sempre que estiver fora da sua residência. Preferir o ar livre e os locais bem ventilados (com janelas sempre abertas). Manter a distância e evitar aglomerações. Higienizar as mãos com sabão ou álcool gel.  Consulte a síntese de dados científicos sobre a transmissibilidade da Covid-19, desenvolvida pela ANESP.\n É importante saber que:\n O vírus é transmitido principalmente a partir da inalação de pequenas partículas em suspensão no ar. Os riscos são maiores em locais fechados e mal ventilados onde pessoas compartilham o mesmo ar. Sempre que possível, busque ficar em casa. Reduza o contato com quem não reside com você. O risco de infecção por superfícies contaminadas é baixo. Distanciamento físico, boa ventilação dos ambientes e uso de máscaras de boa qualidade bem ajustadas são medidas muito mais eficientes. Cuidar apenas da higiene não é o bastante. Para se proteger é preciso também usar máscaras e ventilar os ambientes. Nenhuma medida de prevenção garante segurança absoluta, mas a combinação de diversas medidas pode reduzir significativamente os riscos.  Em resumo, os riscos devem ser avaliados de maneira relativa. Quanto maior a adesão às medidas de prevenção, menores serão os riscos.\nSaiba mais: máscaras, ventilação, distanciamento, reportagens e material de divulgação.\n Fontes: [Portal G1, 07/01/2021] [CDC guidelines, 07/01/2021]\nConteúdo atualizado em 24/03/2021.\n"
 },
 {
 	"uri": "https://covfaq.github.io/tags/",

@@ -6,14 +6,30 @@
     <description>Recent content in Principais medidas on Dicas de prevenção contra a Covid-19</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://covfaq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Campanhas</title>
+      <link>https://covfaq.github.io/amplifique/campanhas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/campanhas/</guid>
+      <description>Baixe estas imagens em um único arquivo ZIP.
+Material produzido pela ANESP, Observatório Covid-19 BR e iniciativa Todos pelas Vacinas, com o apoio da Fábrica de Infográficos
+Principais medidas
+ Como reduzir o risco de infecção pelo SARS-CoV2
+ Conheça o seu ar!
+ Por que o uso de máscaras?
+ </description>
+    </item>
+    
+    <item>
       <title>Dicas de prevenção</title>
       <link>https://covfaq.github.io/amplifique/dicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covfaq.github.io/amplifique/dicas/</guid>
-      <description>Baixe todas as imagens em um único arquivo ZIP.
+      <description>Baixe estas imagens em um único arquivo ZIP.
 Material produzido pelo Grupo Infovid.
-Auxílio emergencial
+Prevenir a Covid-19
+ Auxílio emergencial
  O que é lockdown?
  Sobre máscaras (parte 1)
  Sobre máscaras (parte 2)
@@ -36,12 +52,23 @@ Auxílio emergencial
     </item>
     
     <item>
+      <title>Artigos e relatórios científicos</title>
+      <link>https://covfaq.github.io/saiba-mais/artigos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/saiba-mais/artigos/</guid>
+      <description>Em português  [Rede Análise Covid-19, 05/01/2021] Propagação em espaços fechados  Em inglês   [Clinical Infectious Diseases, 11/03/2021] Transmission of SARS-CoV-2 from asymptomatic and presymptomatic individuals in healthcare settings despite medical masks and eye protection
+  [The Lancet, 10/03/2021] School reopening without robust COVID-19 mitigation risks accelerating the pandemic
+  [Clinical Infectious Diseases, 10/03/2021] Effectiveness of three versus six feet of physical distancing for controlling spread of COVID-19 among primary and secondary students and staff: A retrospective, state-wide cohort study</description>
+    </item>
+    
+    <item>
       <title>Sobre as máscaras</title>
       <link>https://covfaq.github.io/amplifique/mascaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covfaq.github.io/amplifique/mascaras/</guid>
-      <description>Baixe todas as imagens em um único arquivo ZIP.
+      <description>Baixe estas imagens em um único arquivo ZIP.
 Material produzido pela iniciativa Qual Máscara?.
 O que são aerossóis?
  Qual a melhor máscara?
@@ -56,23 +83,12 @@ O que são aerossóis?
     </item>
     
     <item>
-      <title>Artigos e relatórios científicos</title>
-      <link>https://covfaq.github.io/saiba-mais/artigos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covfaq.github.io/saiba-mais/artigos/</guid>
-      <description>Em português  [Rede Análise Covid-19, 05/01/2021] Propagação em espaços fechados  Em inglês   [Clinical Infectious Diseases, 11/03/2021] Transmission of SARS-CoV-2 from asymptomatic and presymptomatic individuals in healthcare settings despite medical masks and eye protection
-  [The Lancet, 10/03/2021] School reopening without robust COVID-19 mitigation risks accelerating the pandemic
-  [Clinical Infectious Diseases, 10/03/2021] Effectiveness of three versus six feet of physical distancing for controlling spread of COVID-19 among primary and secondary students and staff: A retrospective, state-wide cohort study</description>
-    </item>
-    
-    <item>
       <title>Resumos e posters</title>
       <link>https://covfaq.github.io/amplifique/resumos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covfaq.github.io/amplifique/resumos/</guid>
-      <description>Baixe todos os documentos em um único arquivo ZIP.
+      <description>Baixe estes documentos em um único arquivo ZIP.
    Livreto       Covid-19: Síntese de dados científicos sobre a transmissibilidade (arquivo PDF), produzido pela ANESP       Poster       Conheça o seu ar! (arquivo PDF), produzido pelo Observatório Covid-19 BR, COVID Straight Talk e Hablando Claro del COVID       Poster       Como reduzir o risco de infecção pelo SARS-CoV2 (arquivo PDF), produzido pela iniciativa Todos pelas Vacinas       Poster       Qual máscara usar?</description>
     </item>
     

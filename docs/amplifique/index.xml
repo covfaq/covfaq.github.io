@@ -6,14 +6,30 @@
     <description>Recent content in Amplifique on Dicas de prevenção contra a Covid-19</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://covfaq.github.io/amplifique/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Campanhas</title>
+      <link>https://covfaq.github.io/amplifique/campanhas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://covfaq.github.io/amplifique/campanhas/</guid>
+      <description>Baixe estas imagens em um único arquivo ZIP.
+Material produzido pela ANESP, Observatório Covid-19 BR e iniciativa Todos pelas Vacinas, com o apoio da Fábrica de Infográficos
+Principais medidas
+ Como reduzir o risco de infecção pelo SARS-CoV2
+ Conheça o seu ar!
+ Por que o uso de máscaras?
+ </description>
+    </item>
+    
+    <item>
       <title>Dicas de prevenção</title>
       <link>https://covfaq.github.io/amplifique/dicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covfaq.github.io/amplifique/dicas/</guid>
-      <description>Baixe todas as imagens em um único arquivo ZIP.
+      <description>Baixe estas imagens em um único arquivo ZIP.
 Material produzido pelo Grupo Infovid.
-Auxílio emergencial
+Prevenir a Covid-19
+ Auxílio emergencial
  O que é lockdown?
  Sobre máscaras (parte 1)
  Sobre máscaras (parte 2)
@@ -28,7 +44,7 @@ Auxílio emergencial
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covfaq.github.io/amplifique/mascaras/</guid>
-      <description>Baixe todas as imagens em um único arquivo ZIP.
+      <description>Baixe estas imagens em um único arquivo ZIP.
 Material produzido pela iniciativa Qual Máscara?.
 O que são aerossóis?
  Qual a melhor máscara?
@@ -48,7 +64,7 @@ O que são aerossóis?
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covfaq.github.io/amplifique/resumos/</guid>
-      <description>Baixe todos os documentos em um único arquivo ZIP.
+      <description>Baixe estes documentos em um único arquivo ZIP.
    Livreto       Covid-19: Síntese de dados científicos sobre a transmissibilidade (arquivo PDF), produzido pela ANESP       Poster       Conheça o seu ar! (arquivo PDF), produzido pelo Observatório Covid-19 BR, COVID Straight Talk e Hablando Claro del COVID       Poster       Como reduzir o risco de infecção pelo SARS-CoV2 (arquivo PDF), produzido pela iniciativa Todos pelas Vacinas       Poster       Qual máscara usar?</description>
     </item>
     
